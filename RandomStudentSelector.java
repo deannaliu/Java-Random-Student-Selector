@@ -22,6 +22,7 @@ import java.util.stream.Collectors;
 
 /**
  * @author Ritwik Banerjee
+ * @author Deanna Liu
  */
 public class RandomStudentSelector extends Application {
 
